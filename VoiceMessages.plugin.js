@@ -55,7 +55,7 @@ const config = {
 		"name": "VoiceMessages",
 		"authors": [{
 			"name": "Fawkes",
-			"discord_id": "359063827091816448",
+			"discord_id": "461562004814037002",
 			"github_username": "FawkesIV"
 		}],
 		"version": "0.1.3",
