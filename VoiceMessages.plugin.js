@@ -1,11 +1,11 @@
 /**
- * @name VoiceMessages
- * @author Riolubruh
- * @authorLink https://github.com/riolubruh
+ * @name VoiceMessagesFawkes
+ * @author FawkesIV
+ * @authorLink https://github.com/FawkesIV
  * @description Allows you to send voice messages like on mobile. To do so, click the upload button and click Send Voice Message.
  * @version 0.1.3
  * @invite EFmGEWAUns
- * @source https://github.com/riolubruh/VoiceMessages
+ * @source https://github.com/FawkesIV/VoiceMessages
  */
 /*@cc_on
 @if(@_jscript)
@@ -54,14 +54,14 @@ const config = {
 	"info": {
 		"name": "VoiceMessages",
 		"authors": [{
-			"name": "Riolubruh",
+			"name": "Fawkes",
 			"discord_id": "359063827091816448",
-			"github_username": "riolubruh"
+			"github_username": "FawkesIV"
 		}],
 		"version": "0.1.3",
 		"description": "Allows you to send voice messages like on mobile. To do so, click the upload button and click Send Voice Message.",
-		"github": "https://github.com/riolubruh/VoiceMessages",
-		"github_raw": "https://raw.githubusercontent.com/riolubruh/VoiceMessages/main/VoiceMessages.plugin.js"
+		"github": "https://github.com/FawkesIV/VoiceMessages",
+		"github_raw": "https://raw.githubusercontent.com/FawkesIV/VoiceMessages/main/VoiceMessages.plugin.js"
 	},
 	changelog: [
 		{
